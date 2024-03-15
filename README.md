@@ -16,7 +16,7 @@ So_Long is a 2D game written in C programming language using the MiniLibX (mlx) 
 #### <b>Scoring System:</b> Players may earn points or rewards based on their performance within the game, encouraging replayability and competition.</br>
 
 #### Makefile Available Targets:  
-`make` or `make all` - Makes _libftprintf.a_    
+`make` or `make all` - Makes _so_long_    
 `make clean` - Deletes all the resulting object files  
-`make fclean` - Deletes _libftprintf.a_ and all the resulting object files  
-`make re` - Deletes everything (object files and _libftprintf.a_) and rebuilds _libftprintf.a_
+`make fclean` - Deletes _so_long_ and all the resulting object files  
+`make re` - Deletes everything and rebuilds _so_long_
